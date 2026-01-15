@@ -10,7 +10,7 @@
 
 A **basic survival game** built with **Phaser 3** and **TypeScript** to practice game development fundamentals.
 
-🔗 **[Test Demo](https://genesis_island.vercel.app/)**
+🔗 **[Test Demo](https://genesis-island-judadev.vercel.app/)**
 
 ---
 
